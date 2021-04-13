@@ -166,6 +166,7 @@ https://www.geogebra.org/graphing/yvs7n9vm
 <img src="img\taller_1_1_1_3.png">
 
 #### 1.2.1:
+
 sabiendo que la ecuación de la recta es:
 <img src="https://latex.codecogs.com/svg.image?y-y_1=m(x-x_1)" title="y-y^{1}=m(x-x^{1})" />
 se debe obtener las siguientes 2 incognitas
